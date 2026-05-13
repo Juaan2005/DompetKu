@@ -1,2 +1,1 @@
-## 📸 Preview
-![App Preview]assets/Hasiluts.jpeg
+assets/Hasiluts.jpeg
