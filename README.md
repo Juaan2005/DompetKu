@@ -1,2 +1,2 @@
 ## 📸 Preview
-![App Preview](./Hasiluts.jpeg)
+![App Preview]assets/Hasiluts.jpeg
