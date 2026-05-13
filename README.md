@@ -1,1 +1,2 @@
-<img src="./assets/Hasil.uts" width="300" alt="/>
+## 📸 Preview
+![App Preview](./Hasiluts.jpeg)
