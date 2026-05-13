@@ -1,6 +1,6 @@
 💰 Project UTS: DompetKu ⚡
 📸 Preview
-![App Preview](./Hasiluts.jpeg)
+![App Preview](./Hasil8.jpeg)
 🛠️ Logic yang Diterapkan
 
 Aplikasi ini menggunakan useState untuk mengelola data transaksi keuangan, termasuk penyimpanan deskripsi dan nominal. Pengguna dapat menambahkan transaksi pemasukan maupun pengeluaran melalui input yang telah disediakan. Setiap transaksi akan langsung memperbarui total saldo secara otomatis.
