@@ -1,1 +1,1 @@
-<img src="./assets/Hasil.uts" width="300" alt="Screenshot DompetKu"/>
+<img src="./assets/Hasil.uts" width="300" alt="/>
